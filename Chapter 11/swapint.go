@@ -1,4 +1,10 @@
 // swapint
+
+/* This program demonstrates how
+the values of the actual variables do not
+get changed when they are passed by value
+as the parameters of a function */
+
 package main
 
 import (

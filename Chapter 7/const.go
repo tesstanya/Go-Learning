@@ -1,4 +1,7 @@
 // const
+
+// constants cannot be defined using the short hand method with :=
+
 package main
 
 import (
